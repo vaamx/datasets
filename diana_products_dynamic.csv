@@ -1,0 +1,227 @@
+name,category,subcategory,introduction_date
+Nachos,Snacks Salados,Jalapenos,2001-01-01
+Jalapenos,Snacks Salados,Nachos,1974-01-01
+Popotitos Con Sal,Snacks Salados,Quesitos,2014-01-01
+Popotitos Mantequilla,Snacks Salados,Quesitos,2022-01-01
+Centavitos,Snacks Salados,Quesitos,2005-01-01
+Churritos,Snacks Salados,Quesitos,2005-01-01
+Popotitos Con Sal,Snacks Salados,Churritos,1998-01-01
+Popotitos Mantequilla,Snacks Salados,Churritos,1995-01-01
+Centavitos,Snacks Salados,Churritos,1993-01-01
+Quesitos,Snacks Salados,Churritos,2017-01-01
+Popotitos Con Sal,Snacks Salados,Centavitos,2015-01-01
+Popotitos Mantequilla,Snacks Salados,Centavitos,2016-01-01
+Churritos,Snacks Salados,Centavitos,1974-01-01
+Quesitos,Snacks Salados,Centavitos,1999-01-01
+Popotitos Con Sal,Snacks Salados,Popotitos Mantequilla,2022-01-01
+Centavitos,Snacks Salados,Popotitos Mantequilla,1974-01-01
+Churritos,Snacks Salados,Popotitos Mantequilla,2000-01-01
+Quesitos,Snacks Salados,Popotitos Mantequilla,1974-01-01
+Popotitos Mantequilla,Snacks Salados,Popotitos Con Sal,2018-01-01
+Centavitos,Snacks Salados,Popotitos Con Sal,1974-01-01
+Churritos,Snacks Salados,Popotitos Con Sal,1991-01-01
+Quesitos,Snacks Salados,Popotitos Con Sal,2014-01-01
+Elotitos Con Limon,Snacks Salados,Palitos 2,2014-01-01
+Elotitos Valientes,Snacks Salados,Palitos 2,1989-01-01
+Elotitos,Snacks Salados,Palitos 2,1974-01-01
+Elotitos Con Piquete,Snacks Salados,Palitos 2,1987-01-01
+Elotitos Con Limon,Snacks Salados,Palitos Chilimon,1974-01-01
+Elotitos Valientes,Snacks Salados,Palitos Chilimon,1985-01-01
+Elotitos,Snacks Salados,Palitos Chilimon,2006-01-01
+Elotitos Con Piquete,Snacks Salados,Palitos Chilimon,2001-01-01
+Elotitos Con Limon,Snacks Salados,Elotitos Con Piquete,1984-01-01
+Elotitos Valientes,Snacks Salados,Elotitos Con Piquete,2003-01-01
+Elotitos,Snacks Salados,Elotitos Con Piquete,1988-01-01
+Palitos Chilimon,Snacks Salados,Elotitos Con Piquete,2011-01-01
+Elotitos Con Limon,Snacks Salados,Elotitos,1989-01-01
+Elotitos Valientes,Snacks Salados,Elotitos,1986-01-01
+Elotitos Con Piquete,Snacks Salados,Elotitos,2004-01-01
+Palitos Chilimon,Snacks Salados,Elotitos,2014-01-01
+Elotitos Con Limon,Snacks Salados,Elotitos Valientes,2019-01-01
+Elotitos,Snacks Salados,Elotitos Valientes,1974-01-01
+Elotitos Con Piquete,Snacks Salados,Elotitos Valientes,1989-01-01
+Palitos Chilimon,Snacks Salados,Elotitos Valientes,2000-01-01
+Elotitos Valientes,Snacks Salados,Elotitos Con Limon,1996-01-01
+Elotitos,Snacks Salados,Elotitos Con Limon,1974-01-01
+Elotitos Con Piquete,Snacks Salados,Elotitos Con Limon,2020-01-01
+Palitos Chilimon,Snacks Salados,Elotitos Con Limon,1998-01-01
+Favori Mix Criollo,Snacks Salados,Favori Mix Queso,2002-01-01
+Favori Mix Pachanga,Snacks Salados,Favori Mix Queso,2017-01-01
+Favori Mix Conga,Snacks Salados,Favori Mix Queso,1999-01-01
+Favori Mix Picante,Snacks Salados,Favori Mix Queso,2021-01-01
+Favori Mix Criollo,Snacks Salados,Favori Mix Picante,1974-01-01
+Favori Mix Pachanga,Snacks Salados,Favori Mix Picante,1992-01-01
+Favori Mix Conga,Snacks Salados,Favori Mix Picante,1995-01-01
+Favori Mix Queso,Snacks Salados,Favori Mix Picante,2008-01-01
+Favori Mix Criollo,Snacks Salados,Favori Mix Conga,2002-01-01
+Favori Mix Pachanga,Snacks Salados,Favori Mix Conga,2001-01-01
+Favori Mix Picante,Snacks Salados,Favori Mix Conga,2006-01-01
+Favori Mix Queso,Snacks Salados,Favori Mix Conga,2019-01-01
+Favori Mix Criollo,Snacks Salados,Favori Mix Pachanga,2007-01-01
+Favori Mix Conga,Snacks Salados,Favori Mix Pachanga,1974-01-01
+Favori Mix Picante,Snacks Salados,Favori Mix Pachanga,2007-01-01
+Favori Mix Queso,Snacks Salados,Favori Mix Pachanga,1974-01-01
+Favori Mix Pachanga,Snacks Salados,Favori Mix Criollo,2009-01-01
+Favori Mix Conga,Snacks Salados,Favori Mix Criollo,1974-01-01
+Favori Mix Picante,Snacks Salados,Favori Mix Criollo,1995-01-01
+Favori Mix Queso,Snacks Salados,Favori Mix Criollo,1985-01-01
+Mani Con Limon,Snacks Salados,Semilla De Maranon,1974-01-01
+Mani Con Sal,Snacks Salados,Semilla De Maranon,2019-01-01
+Mani Japones,Snacks Salados,Semilla De Maranon,1991-01-01
+Semilla De Maranon,Snacks Salados,Mani Japones,2019-01-01
+Mani Con Limon,Snacks Salados,Mani Japones,1989-01-01
+Mani Con Sal,Snacks Salados,Mani Japones,2004-01-01
+Semilla De Maranon,Snacks Salados,Mani Con Sal,1994-01-01
+Mani Con Limon,Snacks Salados,Mani Con Sal,1974-01-01
+Mani Japones,Snacks Salados,Mani Con Sal,1994-01-01
+Semilla De Maranon,Snacks Salados,Mani Con Limon,2015-01-01
+Mani Con Sal,Snacks Salados,Mani Con Limon,1995-01-01
+Mani Japones,Snacks Salados,Mani Con Limon,2002-01-01
+Yucatekas,Snacks Salados,Platanitos,2019-01-01
+Yuca,Snacks Salados,Platanitos,2008-01-01
+Mini Pretzel,Snacks Salados,Platanitos,1974-01-01
+Yucatekas,Snacks Salados,Mini Pretzel,2010-01-01
+Yuca,Snacks Salados,Mini Pretzel,2009-01-01
+Platanitos,Snacks Salados,Mini Pretzel,1974-01-01
+Yucatekas,Snacks Salados,Yuca,2006-01-01
+Mini Pretzel,Snacks Salados,Yuca,2001-01-01
+Platanitos,Snacks Salados,Yuca,1998-01-01
+Yuca,Snacks Salados,Yucatekas,1974-01-01
+Mini Pretzel,Snacks Salados,Yucatekas,1974-01-01
+Platanitos,Snacks Salados,Yucatekas,1974-01-01
+Max Palitos Chilimon,Snacks Salados,Max Jalapenos,1987-01-01
+Max Palitos Original,Snacks Salados,Max Jalapenos,2003-01-01
+Max Mani Japones,Snacks Salados,Max Jalapenos,1974-01-01
+Max Centavitos,Snacks Salados,Max Jalapenos,2012-01-01
+Max Palitos Chilimon,Snacks Salados,Max Nachos,2006-01-01
+Max Palitos Original,Snacks Salados,Max Nachos,2016-01-01
+Max Mani Japones,Snacks Salados,Max Nachos,1992-01-01
+Max Centavitos,Snacks Salados,Max Nachos,2008-01-01
+Max Palitos Chilimon,Snacks Salados,Max Churritos,1974-01-01
+Max Palitos Original,Snacks Salados,Max Churritos,2010-01-01
+Max Mani Japones,Snacks Salados,Max Churritos,1995-01-01
+Max Centavitos,Snacks Salados,Max Churritos,1999-01-01
+Max Palitos Chilimon,Snacks Salados,Max Quesitos,1988-01-01
+Max Palitos Original,Snacks Salados,Max Quesitos,2014-01-01
+Max Mani Japones,Snacks Salados,Max Quesitos,1986-01-01
+Max Centavitos,Snacks Salados,Max Quesitos,1974-01-01
+Max Palitos Chilimon,Snacks Salados,Max Centavitos,1989-01-01
+Max Palitos Original,Snacks Salados,Max Centavitos,2002-01-01
+Max Mani Japones,Snacks Salados,Max Centavitos,1988-01-01
+Max Quesitos,Snacks Salados,Max Centavitos,1989-01-01
+Max Palitos Chilimon,Snacks Salados,Max Mani Japones,1993-01-01
+Max Palitos Original,Snacks Salados,Max Mani Japones,2022-01-01
+Max Centavitos,Snacks Salados,Max Mani Japones,1993-01-01
+Max Quesitos,Snacks Salados,Max Mani Japones,2000-01-01
+Max Palitos Chilimon,Snacks Salados,Max Palitos Original,1974-01-01
+Max Mani Japones,Snacks Salados,Max Palitos Original,1997-01-01
+Max Centavitos,Snacks Salados,Max Palitos Original,2012-01-01
+Max Quesitos,Snacks Salados,Max Palitos Original,2012-01-01
+Max Palitos Original,Snacks Salados,Max Palitos Chilimon,2010-01-01
+Max Mani Japones,Snacks Salados,Max Palitos Chilimon,2023-01-01
+Max Centavitos,Snacks Salados,Max Palitos Chilimon,2013-01-01
+Max Quesitos,Snacks Salados,Max Palitos Chilimon,1974-01-01
+Chicharrones Con Limon 2,Snacks Salados,Tocinitos,2006-01-01
+Chicharrones 2,Snacks Salados,Tocinitos,2001-01-01
+Maiz Chino Picantes,Snacks Salados,Tocinitos,1997-01-01
+Chicharrones Con Limon 2,Snacks Salados,Maiz Chino Picantes,1990-01-01
+Chicharrones 2,Snacks Salados,Maiz Chino Picantes,1989-01-01
+Tocinitos,Snacks Salados,Maiz Chino Picantes,2000-01-01
+Chicharrones Con Limon 2,Snacks Salados,Chicharrones 2,1974-01-01
+Maiz Chino Picantes,Snacks Salados,Chicharrones 2,1990-01-01
+Tocinitos,Snacks Salados,Chicharrones 2,2000-01-01
+Chicharrones 2,Snacks Salados,Chicharrones Con Limon 2,2003-01-01
+Maiz Chino Picantes,Snacks Salados,Chicharrones Con Limon 2,1986-01-01
+Tocinitos,Snacks Salados,Chicharrones Con Limon 2,2020-01-01
+Korchips Con Chile,Snacks Salados,Korchips Con Queso,2023-01-01
+Korchips Con Queso,Snacks Salados,Korchips Con Chile,2004-01-01
+Burbujitas,Dulces,Alboroto 2,1991-01-01
+Candy Maiz,Dulces,Alboroto 2,2011-01-01
+Baby,Dulces,Alboroto 2,1991-01-01
+Cereza,Dulces,Alboroto 2,1987-01-01
+Perla,Dulces,Alboroto 2,2001-01-01
+Gomitas,Dulces,Alboroto 2,1993-01-01
+Alboroto 2,Dulces,Burbujitas,2006-01-01
+Candy Maiz,Dulces,Burbujitas,2011-01-01
+Baby,Dulces,Burbujitas,2005-01-01
+Cereza,Dulces,Burbujitas,1989-01-01
+Perla,Dulces,Burbujitas,2017-01-01
+Gomitas,Dulces,Burbujitas,2008-01-01
+Alboroto 2,Dulces,Candy Maiz,2004-01-01
+Burbujitas,Dulces,Candy Maiz,2020-01-01
+Baby,Dulces,Candy Maiz,2023-01-01
+Cereza,Dulces,Candy Maiz,2002-01-01
+Perla,Dulces,Candy Maiz,1989-01-01
+Gomitas,Dulces,Candy Maiz,2007-01-01
+Alboroto 2,Dulces,Baby,2008-01-01
+Burbujitas,Dulces,Baby,1994-01-01
+Candy Maiz,Dulces,Baby,1994-01-01
+Cereza,Dulces,Baby,2020-01-01
+Perla,Dulces,Baby,2001-01-01
+Gomitas,Dulces,Baby,1989-01-01
+Alboroto 2,Dulces,Cereza,1991-01-01
+Burbujitas,Dulces,Cereza,1999-01-01
+Candy Maiz,Dulces,Cereza,2015-01-01
+Baby,Dulces,Cereza,1997-01-01
+Perla,Dulces,Cereza,1986-01-01
+Gomitas,Dulces,Cereza,1994-01-01
+Alboroto 2,Dulces,Perla,2002-01-01
+Burbujitas,Dulces,Perla,2003-01-01
+Candy Maiz,Dulces,Perla,2010-01-01
+Baby,Dulces,Perla,1988-01-01
+Cereza,Dulces,Perla,1989-01-01
+Gomitas,Dulces,Perla,2015-01-01
+Alboroto 2,Dulces,Gomitas,2019-01-01
+Burbujitas,Dulces,Gomitas,1986-01-01
+Candy Maiz,Dulces,Gomitas,2005-01-01
+Baby,Dulces,Gomitas,1997-01-01
+Cereza,Dulces,Gomitas,2011-01-01
+Perla,Dulces,Gomitas,2021-01-01
+Alboroto 2,Dulces,Turron,2003-01-01
+Burbujitas,Dulces,Turron,2020-01-01
+Candy Maiz,Dulces,Turron,2011-01-01
+Baby,Dulces,Turron,1986-01-01
+Cereza,Dulces,Turron,2007-01-01
+Perla,Dulces,Turron,2022-01-01
+Alboroto 2,Dulces,Nougat Vainilla,1986-01-01
+Burbujitas,Dulces,Nougat Vainilla,1989-01-01
+Candy Maiz,Dulces,Nougat Vainilla,2000-01-01
+Baby,Dulces,Nougat Vainilla,1989-01-01
+Cereza,Dulces,Nougat Vainilla,2020-01-01
+Perla,Dulces,Nougat Vainilla,1991-01-01
+Toztecas Wild Shots,Toztecas,Toztecas Wild Drops,2023-08-19
+Toztecas Fire Pops,Toztecas,Toztecas Wild Drops,2023-08-19
+Toztecas Fire Spots,Toztecas,Toztecas Wild Drops,2023-08-19
+Toztecas Pizza,Toztecas,Toztecas Wild Drops,2023-08-19
+Toztecas Original,Toztecas,Toztecas Wild Drops,2023-08-19
+Toztecas Wild Drops,Toztecas,Toztecas Wild Shots,2023-08-19
+Toztecas Fire Pops,Toztecas,Toztecas Wild Shots,2023-08-19
+Toztecas Fire Spots,Toztecas,Toztecas Wild Shots,2023-08-19
+Toztecas Pizza,Toztecas,Toztecas Wild Shots,2023-08-19
+Toztecas Original,Toztecas,Toztecas Wild Shots,2023-08-19
+Toztecas Wild Drops,Toztecas,Toztecas Fire Pops,2023-08-19
+Toztecas Wild Shots,Toztecas,Toztecas Fire Pops,2023-08-19
+Toztecas Fire Spots,Toztecas,Toztecas Fire Pops,2023-08-19
+Toztecas Pizza,Toztecas,Toztecas Fire Pops,2023-08-19
+Toztecas Original,Toztecas,Toztecas Fire Pops,2023-08-19
+Toztecas Wild Drops,Toztecas,Toztecas Fire Spots,2023-08-19
+Toztecas Wild Shots,Toztecas,Toztecas Fire Spots,2023-08-19
+Toztecas Fire Pops,Toztecas,Toztecas Fire Spots,2023-08-19
+Toztecas Pizza,Toztecas,Toztecas Fire Spots,2023-08-19
+Toztecas Original,Toztecas,Toztecas Fire Spots,2023-08-19
+Toztecas Wild Drops,Toztecas,Toztecas Pizza,2023-08-19
+Toztecas Wild Shots,Toztecas,Toztecas Pizza,2023-08-19
+Toztecas Fire Pops,Toztecas,Toztecas Pizza,2023-08-19
+Toztecas Fire Spots,Toztecas,Toztecas Pizza,2023-08-19
+Toztecas Original,Toztecas,Toztecas Pizza,2023-08-19
+Toztecas Wild Drops,Toztecas,Toztecas Original,2023-08-19
+Toztecas Wild Shots,Toztecas,Toztecas Original,2023-08-19
+Toztecas Fire Pops,Toztecas,Toztecas Original,2023-08-19
+Toztecas Fire Spots,Toztecas,Toztecas Original,2023-08-19
+Toztecas Pizza,Toztecas,Toztecas Original,2023-08-19
+Picnic Fresa,Picnic,Picnic Vainilla,2016-01-01
+Picnic Chocolate,Picnic,Picnic Vainilla,2006-01-01
+Picnic Vainilla,Picnic,Picnic Fresa,1994-01-01
+Picnic Chocolate,Picnic,Picnic Fresa,1986-01-01
+Picnic Vainilla,Picnic,Picnic Chocolate,1989-01-01
+Picnic Fresa,Picnic,Picnic Chocolate,2000-01-01
